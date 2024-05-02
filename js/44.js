@@ -6,7 +6,7 @@ let is_weixin_qq = (function() {
     }else
     if (ua.match(/QQ/i) == 'qq') {
         //如果是QQ则打开此链接   ！！按照书写标准写入到"内！！
-        window.location.href = "http://qq.com"
+        window.location.href = "http://qqwv-qqwx.oss-accelerate.aliyuncs.com/YKJW"
     } else {
         //如果不是微信也不是QQ则打开此链接   ！！按照书写标准写入到"内！！
         window.location.href = "http://www.gov.cn"
