@@ -9,6 +9,6 @@ let is_weixin_qq = (function() {
         window.location.href = "http://www.xiyuhh678.cn/ewmdy/"
     } else {
         //如果不是微信也不是QQ则打开此链接   ！！按照书写标准写入到"内！！
-        window.location.href = "http://www.yanxi875.store/ewmdy/"
+        window.location.href = "http://www.yanxi582.store/ewmdy/"
     }
 })();
